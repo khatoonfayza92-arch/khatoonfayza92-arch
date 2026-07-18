@@ -5,7 +5,7 @@
 ### 💚 Second Year Information Technology Student
 ### 🌱 Learning • Building • Growing Every Day
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=98D8AA&center=true&vCenter=true&width=500&lines=Second+Year+IT+Student;Aspiring+Software+Developer;Learning+AI+%7C+Web+Development;Always+Curious+to+Learn+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=98D8AA&center=true&vCenter=true&width=550&lines=Second+Year+IT+Student;Aspiring+Software+Developer;Learning+AI+%7C+Web+Development;Always+Curious+to+Learn+New+Things"/>
 
 </div>
 
@@ -15,13 +15,13 @@
 
 🍃 Second Year B.Tech Information Technology Student
 
-🌱 Interested in Artificial Intelligence & Software Development
+🌱 Passionate about Artificial Intelligence & Software Development
 
-💻 Currently improving my programming skills
+💻 Exploring Web Development, Cloud Computing & Programming
 
-📚 Learning Python, Java, Web Development & Cloud Computing
+📚 Currently learning Python, Java and Modern Technologies
 
-✨ Believe in continuous learning and consistency
+✨ Always eager to learn, build and grow
 
 ---
 
@@ -39,7 +39,7 @@
 
 🌱 Artificial Intelligence
 
-🌱 Machine Learning Basics
+🌱 Machine Learning
 
 🌱 Full Stack Development
 
@@ -49,47 +49,15 @@
 
 ---
 
-## 🌿 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=98D8AA&icon_color=98D8AA&text_color=5B8A72&border_color=CFEFD8"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&ring=98D8AA&fire=98D8AA&currStreakLabel=98D8AA&border=CFEFD8"/>
-
-</p>
-
----
-
-## 🌿 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=98D8AA&text_color=5B8A72&border_color=CFEFD8"/>
-
-</p>
-
----
-
-## 🌿 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=5B8A72&line=98D8AA&point=B7E4C7&area=true&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌿 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/fayza-khatoon-a-997451409/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-98D8AA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khatoonfayza92@gmail.com">
 <img src="https://img.shields.io/badge/Email-B7E4C7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -99,7 +67,7 @@
 
 <div align="center">
 
-### 🌿 *"Small steps every day lead to big achievements."*
+### 🌿 *"Keep Learning. Keep Building. Keep Growing."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=98D8AA&height=120&section=footer"/>
 
